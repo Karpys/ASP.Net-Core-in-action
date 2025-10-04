@@ -1,0 +1,25 @@
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/appsettings.Development.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/appsettings.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/ANCIA 8.1
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/ANCIA 8.1.deps.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/ANCIA 8.1.runtimeconfig.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/ANCIA 8.1.dll
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/bin/Debug/net8.0/ANCIA 8.1.pdb
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.AssemblyInfoInputs.cache
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.AssemblyInfo.cs
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.csproj.CoreCompileInputs.cache
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.MvcApplicationPartsAssemblyInfo.cache
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets/msbuild.ANCIA 8.1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets/msbuild.build.ANCIA 8.1.props
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ANCIA 8.1.props
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ANCIA 8.1.props
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/scopedcss/bundle/ANCIA 8.1.styles.css
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.dll
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/refint/ANCIA 8.1.dll
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.pdb
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ANCIA 8.1.genruntimeconfig.cache
+/Users/remi/ProgrammingProject/ASPNet Core In Action/ANCIA 8.1/ANCIA 8.1/obj/Debug/net8.0/ref/ANCIA 8.1.dll
