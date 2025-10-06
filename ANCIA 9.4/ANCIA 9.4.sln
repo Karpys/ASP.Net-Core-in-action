@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANCIA 9.4", "ANCIA 9.4\ANCIA 9.4.csproj", "{B8FA71AA-7733-4745-9199-D8FC5865E376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FA71AA-7733-4745-9199-D8FC5865E376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FA71AA-7733-4745-9199-D8FC5865E376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FA71AA-7733-4745-9199-D8FC5865E376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FA71AA-7733-4745-9199-D8FC5865E376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ANCIA 8.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d149e4fe3969611f72e015a536071d268789d60")]
 [assembly: System.Reflection.AssemblyProductAttribute("ANCIA 8.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ANCIA 8.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

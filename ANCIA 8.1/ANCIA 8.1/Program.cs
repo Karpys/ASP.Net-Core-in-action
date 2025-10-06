@@ -2,6 +2,7 @@ WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 WebApplication app = builder.Build();
 
 app.MapGet("/register/{username}", RegisterUser);
+app.MapGet("/registerDI/{username}", RegisterUserDI);
 
 string RegisterUser(string username)
 {
@@ -10,10 +11,20 @@ string RegisterUser(string username)
     return $"Email sent to {username}";
 }
 
+string RegisterUserDI(string username,EmailSender emailSender)
+{
+    emailSender.SendEmail(username);
+    return $"Email sent to {username}";
+}
+
 app.Run();
 
+public interface IMailSender
+{
+    void SendEmail(string username);
+}
 
-public class EmailSender
+public class EmailSender : IMailSender
 {
     private readonly NetWorkClient _client;
     private readonly MessageFactory _factory;
